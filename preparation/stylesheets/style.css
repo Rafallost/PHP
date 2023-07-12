@@ -1,0 +1,26 @@
+html{
+    background-image: url("../img/background.png");
+    
+}
+
+button {
+    padding: 10px 20px;
+    background-color: rgb(5, 43, 94);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/*
+header,footer{
+    
+    font-style: italic;
+   background-color: rgba(5, 41, 109, 0.2);
+    
+}
+
+#main{
+    font-style: italic;
+   // background-color: rgba(5, 41, 109, 0.1);
+}
+*/
